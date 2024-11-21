@@ -1,0 +1,132 @@
+[18:09:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:09:24] [ServerMain/INFO]: Loaded 7 recipes
+[18:09:24] [ServerMain/INFO]: Loaded 1271 advancements
+[18:09:25] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[18:09:25] [Server thread/INFO]: Loading properties
+[18:09:25] [Server thread/INFO]: Default game type: SURVIVAL
+[18:09:25] [Server thread/INFO]: Generating keypair
+[18:09:25] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:276) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:282) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:343) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at ama$1.run(SourceFile:89) ~[server-1.20.4.jar:?]
+[18:09:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:09:25] [Server thread/INFO]: Using default channel type
+[18:09:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:09:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:09:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:09:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:09:27] [Server thread/INFO]: Preparing level "world"
+[18:09:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:09:32] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[18:09:33] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[18:09:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:09:33] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[18:09:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:09:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:09:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:09:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:09:35] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:09:35] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:09:35] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:09:38] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:09:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:09:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:09:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:09:38] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:09:38] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:09:38] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:09:38] [Worker-Main-6/INFO]: Preparing spawn area: 12%
+[18:09:39] [Worker-Main-7/INFO]: Preparing spawn area: 66%
+[18:09:39] [Server thread/INFO]: Time elapsed: 9646 ms
+[18:09:39] [Server thread/INFO]: Done (12.603s)! For help, type "help"
+[18:10:06] [Server thread/INFO]: Ultra_S[/127.0.0.1:49259] logged in with entity id 102 at (-411.54235286041546, 97.0, -181.68468340311222)
+[18:10:06] [Server thread/INFO]: Ultra_S joined the game
+[18:10:06] [Server thread/INFO]: Ultra_S has made the advancement [Suit Up]
+[18:10:06] [Server thread/INFO]: Ultra_S has made the advancement [Cover Me with Diamonds]
+[18:10:06] [Server thread/INFO]: Ultra_S has made the advancement [Acquire Hardware]
+[18:10:06] [Server thread/INFO]: Ultra_S has made the advancement [Diamonds!]
+[18:10:06] [Server thread/INFO]: Ultra_S has made the advancement [Into Fire]
+[18:10:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4675ms or 93 ticks behind
+[18:10:55] [Server thread/INFO]: Ultra_S has made the advancement [Monster Hunter]
+[18:14:47] [Server thread/INFO]: Ultra_S lost connection: Disconnected
+[18:14:47] [Server thread/INFO]: Ultra_S left the game
+[18:18:16] [Server thread/ERROR]: Unable to parse Stat data from .\world\stats\7f3661f0-e6a5-377f-b72a-0de6d2d93fcb.json
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+	at com.google.gson.internal.Streams.parse(Streams.java:61) ~[gson-2.10.1.jar:?]
+	at ary.a(SourceFile:81) ~[server-1.20.4.jar:?]
+	at ary.<init>(SourceFile:49) ~[server-1.20.4.jar:?]
+	at aqv.a(SourceFile:857) ~[server-1.20.4.jar:?]
+	at ane.<init>(SourceFile:279) ~[server-1.20.4.jar:?]
+	at aqv.a(SourceFile:439) ~[server-1.20.4.jar:?]
+	at aoa.a(SourceFile:126) ~[server-1.20.4.jar:?]
+	at yy.a(SourceFile:20) ~[server-1.20.4.jar:?]
+	at yy.a(SourceFile:7) ~[server-1.20.4.jar:?]
+	at xh.a(SourceFile:24) ~[server-1.20.4.jar:?]
+	at aia.run(SourceFile:18) ~[server-1.20.4.jar:?]
+	at bir.d(SourceFile:156) ~[server-1.20.4.jar:?]
+	at biv.d(SourceFile:23) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:797) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.d(SourceFile:165) ~[server-1.20.4.jar:?]
+	at bir.x(SourceFile:130) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.bl(SourceFile:779) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.x(SourceFile:773) ~[server-1.20.4.jar:?]
+	at bir.c(SourceFile:139) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.w_(SourceFile:758) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:687) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:270) ~[server-1.20.4.jar:?]
+	at java.lang.Thread.run(Thread.java:842) ~[?:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1659) ~[gson-2.10.1.jar:?]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1465) ~[gson-2.10.1.jar:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:602) ~[gson-2.10.1.jar:?]
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:433) ~[gson-2.10.1.jar:?]
+	at com.google.gson.internal.Streams.parse(Streams.java:47) ~[gson-2.10.1.jar:?]
+	... 22 more
+[18:18:16] [Server thread/INFO]: hila[/10.100.102.19:50041] logged in with entity id 733 at (-412.69999998807907, 97.5625, -164.69999998807907)
+[18:18:16] [Server thread/INFO]: hila joined the game
+[18:18:16] [Server thread/INFO]: hila has made the advancement [Suit Up]
+[18:18:16] [Server thread/INFO]: hila has made the advancement [Stone Age]
+[18:18:16] [Server thread/INFO]: hila has made the advancement [Getting an Upgrade]
+[18:18:16] [Server thread/INFO]: hila has made the advancement [Isn't It Iron Pick]
+[18:18:43] [Server thread/INFO]: Ultra_S[/127.0.0.1:49332] logged in with entity id 964 at (-411.03122962511355, 97.0, -177.14077543652039)
+[18:18:43] [Server thread/INFO]: Ultra_S joined the game
+[18:21:29] [Server thread/INFO]: hila has made the advancement [Best Friends Forever]
+[18:21:50] [Server thread/INFO]: hila has made the advancement [Ol' Betsy]
+[18:21:51] [Server thread/INFO]: hila has made the advancement [Take Aim]
+[18:22:26] [Server thread/INFO]: Ultra_S has made the advancement [Not Today, Thank You]
+[18:24:17] [Server thread/INFO]: hila has made the advancement [Acquire Hardware]
+[18:25:22] [Server thread/INFO]: Ultra_S has made the advancement [Stone Age]
+[18:31:00] [Server thread/INFO]: hila has made the advancement [A Seedy Place]
+[18:35:10] [Server thread/INFO]: Ultra_S has made the advancement [Enchanter]
+[18:37:19] [Server thread/INFO]: hila has made the advancement [Monster Hunter]
+[18:38:39] [Server thread/INFO]: hila has made the advancement [Sweet Dreams]
+[18:39:01] [Server thread/INFO]: Ultra_S has made the advancement [Sweet Dreams]
+[18:43:02] [Server thread/INFO]: hila has made the advancement [We Need to Go Deeper]
+[18:43:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4493ms or 89 ticks behind
+[18:46:39] [Server thread/INFO]: Ultra_S has made the advancement [A Seedy Place]
+[18:47:06] [Server thread/INFO]: hila tried to swim in lava
+[18:52:36] [Server thread/INFO]: Ultra_S has made the advancement [The Parrots and the Bats]
+[18:54:44] [Server thread/INFO]: hila has made the advancement [Not Today, Thank You]
+[18:58:46] [Server thread/INFO]: hila fell from a high place
+[19:05:42] [Server thread/INFO]: Ultra_S has made the advancement [We Need to Go Deeper]
+[19:12:43] [Server thread/INFO]: Ultra_S has made the advancement [Ice Bucket Challenge]
+[19:18:39] [Server thread/INFO]: hila has made the advancement [Ice Bucket Challenge]
+[19:19:06] [Server thread/INFO]: Ultra_S has made the advancement [Who is Cutting Onions?]
+[19:21:10] [Server thread/INFO]: hila fell from a high place
+[19:21:16] [Server thread/INFO]: Ultra_S tried to swim in lava
+[19:22:11] [Server thread/INFO]: Ultra_S has made the advancement [Take Aim]
+[19:23:25] [Server thread/INFO]: Ultra_S lost connection: Disconnected
+[19:23:25] [Server thread/INFO]: Ultra_S left the game
+[19:47:50] [Server thread/INFO]: hila lost connection: Disconnected
+[19:47:50] [Server thread/INFO]: hila left the game
+[22:52:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10650900ms or 213018 ticks behind

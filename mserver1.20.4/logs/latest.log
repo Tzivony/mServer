@@ -1,0 +1,266 @@
+[13:42:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:42:50] [ServerMain/INFO]: Loaded 7 recipes
+[13:42:50] [ServerMain/INFO]: Loaded 1271 advancements
+[13:42:51] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[13:42:51] [Server thread/INFO]: Loading properties
+[13:42:51] [Server thread/INFO]: Default game type: SURVIVAL
+[13:42:51] [Server thread/INFO]: Generating keypair
+[13:42:51] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:276) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:282) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:343) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at ama$1.run(SourceFile:89) ~[server-1.20.4.jar:?]
+[13:42:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:42:51] [Server thread/INFO]: Using default channel type
+[13:42:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:42:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:42:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:42:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:42:51] [Server thread/INFO]: Preparing level "world"
+[13:42:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:42:54] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[13:42:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:42:54] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[13:42:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:42:54] [Worker-Main-8/INFO]: Preparing spawn area: 1%
+[13:42:55] [Server thread/INFO]: Time elapsed: 2398 ms
+[13:42:55] [Server thread/INFO]: Done (3.185s)! For help, type "help"
+[13:43:15] [Server thread/INFO]: Ultra_S[/127.0.0.1:57591] logged in with entity id 88 at (-394.84370307708895, 112.0, -154.11259071333586)
+[13:43:15] [Server thread/INFO]: Ultra_S joined the game
+[13:43:33] [Server thread/INFO]: [Ultra_S: Set own game mode to Survival Mode]
+[13:50:25] [Server thread/INFO]: hilamiaoww[/62.0.93.124:60031] logged in with entity id 1262 at (-411.5, 97.0, -164.69999998807907)
+[13:50:25] [Server thread/INFO]: hilamiaoww joined the game
+[13:54:54] [Server thread/INFO]: hilamiaoww has made the advancement [The Cutest Predator]
+[13:55:29] [Server thread/INFO]: [Ultra_S: Set own game mode to Creative Mode]
+[13:56:05] [Server thread/INFO]: [Ultra_S: Teleported Ultra_S to hilamiaoww]
+[13:56:05] [Server thread/WARN]: Ultra_S moved too quickly! -5.985479914321331,28.0,-1.398731627708031
+[13:56:05] [Server thread/WARN]: Ultra_S moved too quickly! -5.985479914321331,28.0,-1.398731627708031
+[14:10:35] [Server thread/INFO]: [Ultra_S: Set hilamiaoww's game mode to Creative Mode]
+[14:13:31] [Server thread/INFO]: [Ultra_S: Teleported Ultra_S to hilamiaoww]
+[14:13:31] [Server thread/WARN]: Ultra_S moved too quickly! -480.3253570722087,56.28715537236647,281.17864490621935
+[14:13:31] [Server thread/WARN]: Ultra_S moved too quickly! -480.3253570722087,56.28715537236647,281.17864490621935
+[14:14:04] [Server thread/INFO]: [Ultra_S: Set hilamiaoww's game mode to Survival Mode]
+[14:14:06] [Server thread/INFO]: [Ultra_S: Set hilamiaoww's game mode to Creative Mode]
+[14:19:23] [Server thread/INFO]: [Ultra_S: Teleported Ultra_S to hilamiaoww]
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:19:23] [Server thread/WARN]: Ultra_S moved too quickly! 915.4860067227773,-40.513071717365875,-1090.4671026543679
+[14:20:01] [Server thread/INFO]: [Ultra_S: Teleported Ultra_S to 47.500000, 93.000000, 253.500000]
+[14:20:01] [Server thread/WARN]: Ultra_S moved too quickly! 2.585414659118541,19.657098208956725,1094.9359975326583
+[14:20:01] [Server thread/WARN]: Ultra_S moved too quickly! 2.585414659118541,19.657098208956725,1094.9359975326583
+[14:20:01] [Server thread/WARN]: Ultra_S moved too quickly! 2.585414659118541,19.657098208956725,1094.9359975326583
+[14:20:01] [Server thread/WARN]: Ultra_S moved too quickly! 2.585414659118541,19.657098208956725,1094.9359975326583
+[14:20:01] [Server thread/WARN]: Ultra_S moved too quickly! 2.585414659118541,19.657098208956725,1094.9359975326583
+[14:30:11] [Server thread/INFO]: [Ultra_S: Set hilamiaoww's game mode to Survival Mode]
+[14:30:14] [Server thread/INFO]: hilamiaoww tried to swim in lava
+[14:30:49] [Server thread/INFO]: [Ultra_S: Teleported Ultra_S to hilamiaoww]
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:30:49] [Server thread/WARN]: Ultra_S moved too quickly! -458.93755347613507,-59.0,-399.1588652629415
+[14:31:17] [Server thread/INFO]: hilamiaoww has made the advancement [Take Aim]
+[14:43:52] [Server thread/INFO]: [Ultra_S: Set hilamiaoww's game mode to Creative Mode]
+[14:45:07] [Server thread/INFO]: [Ultra_S: Teleported Ultra_S to hilamiaoww]
+[14:45:07] [Server thread/WARN]: Ultra_S moved too quickly! -3.8391370771751596,58.0,8.366227054810821
+[14:45:07] [Server thread/WARN]: Ultra_S moved too quickly! -3.8391370771751596,58.0,8.366227054810821
+[14:45:07] [Server thread/WARN]: Ultra_S moved too quickly! -3.8391370771751596,58.0,8.366227054810821
+[14:45:07] [Server thread/WARN]: Ultra_S moved too quickly! -3.8391370771751596,58.0,8.366227054810821
+[14:45:07] [Server thread/WARN]: Ultra_S moved too quickly! -3.8391370771751596,58.0,8.366227054810821
+[14:45:07] [Server thread/WARN]: Ultra_S moved too quickly! -3.8391370771751596,58.0,8.366227054810821
+[14:45:07] [Server thread/WARN]: Ultra_S moved too quickly! -3.8391370771751596,58.0,8.366227054810821
+[14:45:07] [Server thread/WARN]: Ultra_S moved too quickly! -3.8391370771751596,58.0,8.366227054810821
+[14:45:07] [Server thread/WARN]: Ultra_S moved too quickly! -3.8391370771751596,58.0,8.366227054810821
+[14:45:07] [Server thread/WARN]: Ultra_S moved too quickly! -3.8391370771751596,58.0,8.366227054810821
+[14:45:07] [Server thread/WARN]: Ultra_S moved too quickly! -3.8391370771751596,58.0,8.366227054810821
+[14:45:07] [Server thread/WARN]: Ultra_S moved too quickly! -3.8391370771751596,58.0,8.366227054810821
+[14:45:07] [Server thread/WARN]: Ultra_S moved too quickly! -3.8391370771751596,58.0,8.366227054810821
+[14:45:54] [Server thread/INFO]: [Ultra_S: Teleported Ultra_S to hilamiaoww]
+[14:45:54] [Server thread/WARN]: Ultra_S moved too quickly! 1.124970547325816,44.25906633430351,-0.9220290715939541
+[14:45:54] [Server thread/WARN]: Ultra_S moved too quickly! 1.124970547325816,44.25906633430351,-0.9220290715939541
+[14:45:54] [Server thread/WARN]: Ultra_S moved too quickly! 1.124970547325816,44.25906633430351,-0.9220290715939541
+[14:47:40] [Server thread/INFO]: Ultra_S has made the advancement [Hot Stuff]
+[14:47:53] [Server thread/INFO]: [Ultra_S: Teleported hilamiaoww to Ultra_S]
+[14:47:53] [Server thread/WARN]: hilamiaoww moved too quickly! 0.060194914778293196,147.80101723909408,15.95790297981469
+[14:47:57] [Server thread/INFO]: [Ultra_S: Teleported hilamiaoww to Ultra_S]
+[14:47:57] [Server thread/WARN]: hilamiaoww moved too quickly! 4.624131244291725,139.80101723909408,-3.378438976156872
+[14:47:59] [Server thread/INFO]: [Ultra_S: Teleported hilamiaoww to Ultra_S]
+[14:47:59] [Server thread/WARN]: hilamiaoww moved too quickly! 0.25993733024194654,52.53794371794231,0.0
+[14:48:01] [Server thread/INFO]: [Ultra_S: Teleported hilamiaoww to Ultra_S]
+[14:58:04] [Server thread/INFO]: hilamiaoww was killed
+[14:58:04] [Server thread/INFO]: [Ultra_S: Killed hilamiaoww]
+[14:58:08] [Server thread/INFO]: [Ultra_S: Teleported Ultra_S to hilamiaoww]
+[14:58:08] [Server thread/WARN]: Ultra_S moved too quickly! -331.81989772996553,4.0,-378.1322681083818
+[14:58:08] [Server thread/WARN]: Ultra_S moved too quickly! -331.81989772996553,4.0,-378.1322681083818
+[14:58:08] [Server thread/WARN]: Ultra_S moved too quickly! -331.81989772996553,4.0,-378.1322681083818
+[14:58:08] [Server thread/WARN]: Ultra_S moved too quickly! -331.81989772996553,4.0,-378.1322681083818
+[14:58:08] [Server thread/WARN]: Ultra_S moved too quickly! -331.81989772996553,4.0,-378.1322681083818
+[14:58:08] [Server thread/WARN]: Ultra_S moved too quickly! -331.81989772996553,4.0,-378.1322681083818
+[14:58:08] [Server thread/WARN]: Ultra_S moved too quickly! -331.81989772996553,4.0,-378.1322681083818
+[14:58:08] [Server thread/WARN]: Ultra_S moved too quickly! -331.81989772996553,4.0,-378.1322681083818
+[14:58:08] [Server thread/WARN]: Ultra_S moved too quickly! -331.81989772996553,4.0,-378.1322681083818
+[14:58:08] [Server thread/WARN]: Ultra_S moved too quickly! -331.81989772996553,4.0,-378.1322681083818
+[14:58:08] [Server thread/WARN]: Ultra_S moved too quickly! -331.81989772996553,4.0,-378.1322681083818
+[14:58:08] [Server thread/WARN]: Ultra_S moved too quickly! -331.81989772996553,4.0,-378.1322681083818
+[14:58:08] [Server thread/WARN]: Ultra_S moved too quickly! -331.81989772996553,4.0,-378.1322681083818
+[14:58:08] [Server thread/WARN]: Ultra_S moved too quickly! -331.81989772996553,4.0,-378.1322681083818
+[14:58:08] [Server thread/WARN]: Ultra_S moved too quickly! -331.81989772996553,4.0,-378.1322681083818
+[14:58:08] [Server thread/WARN]: Ultra_S moved too quickly! -331.81989772996553,4.0,-378.1322681083818
+[14:58:08] [Server thread/WARN]: Ultra_S moved too quickly! -331.81989772996553,4.0,-378.1322681083818
+[14:58:08] [Server thread/WARN]: Ultra_S moved too quickly! -331.81989772996553,4.0,-378.1322681083818
+[14:58:08] [Server thread/WARN]: Ultra_S moved too quickly! -331.81989772996553,4.0,-378.1322681083818
+[14:58:08] [Server thread/WARN]: Ultra_S moved too quickly! -331.81989772996553,4.0,-378.1322681083818
+[14:58:08] [Server thread/WARN]: Ultra_S moved too quickly! -331.81989772996553,4.0,-378.1322681083818
+[14:58:08] [Server thread/WARN]: Ultra_S moved too quickly! -331.81989772996553,4.0,-378.1322681083818
+[14:58:08] [Server thread/WARN]: Ultra_S moved too quickly! -331.81989772996553,4.0,-378.1322681083818
+[14:58:08] [Server thread/WARN]: Ultra_S moved too quickly! -331.81989772996553,4.0,-378.1322681083818
+[14:58:08] [Server thread/WARN]: Ultra_S moved too quickly! -331.81989772996553,4.0,-378.1322681083818
+[14:58:08] [Server thread/WARN]: Ultra_S moved too quickly! -331.81989772996553,4.0,-378.1322681083818
+[14:58:08] [Server thread/WARN]: Ultra_S moved too quickly! -331.81989772996553,4.0,-378.1322681083818
+[14:58:08] [Server thread/WARN]: Ultra_S moved too quickly! -331.81989772996553,4.0,-378.1322681083818
+[15:03:02] [Server thread/INFO]: [Ultra_S: Teleported Ultra_S to hilamiaoww]
+[15:03:02] [Server thread/WARN]: Ultra_S moved too quickly! 92.64788939440564,-6.0,29.203720413252427
+[15:03:02] [Server thread/WARN]: Ultra_S moved too quickly! 92.64788939440564,-6.0,29.203720413252427
+[15:03:02] [Server thread/WARN]: Ultra_S moved too quickly! 92.64788939440564,-6.0,29.203720413252427
+[15:03:02] [Server thread/WARN]: Ultra_S moved too quickly! 92.64788939440564,-6.0,29.203720413252427
+[15:03:02] [Server thread/WARN]: Ultra_S moved too quickly! 92.64788939440564,-6.0,29.203720413252427
+[15:03:02] [Server thread/WARN]: Ultra_S moved too quickly! 92.64788939440564,-6.0,29.203720413252427
+[15:42:29] [Server thread/INFO]: hilamiaoww has made the advancement [Ice Bucket Challenge]
+[16:20:13] [Server thread/INFO]: hilamiaoww has made the advancement [Into Fire]
+[16:58:37] [Server thread/INFO]: [Ultra_S: Teleported Ultra_S to hilamiaoww]
+[16:59:00] [Server thread/INFO]: Ultra_S lost connection: Disconnected
+[16:59:00] [Server thread/INFO]: Ultra_S left the game
+[17:00:11] [Server thread/INFO]: Stopping the server
+[17:00:11] [Server thread/INFO]: Stopping server
+[17:00:11] [Server thread/INFO]: Saving players
+[17:00:11] [Server thread/INFO]: Saving worlds
+[17:00:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:00:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:00:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:00:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:00:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:00:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:00:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
